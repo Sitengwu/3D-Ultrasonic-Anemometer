@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Ultrasonic Sensors")(type "KiCad")(uri "${KIPRJMOD}/Ultrasonic Sensors.kicad_sym")(options "")(descr ""))
+)
