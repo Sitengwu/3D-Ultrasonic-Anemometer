@@ -1050,7 +1050,7 @@
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(fp_rect
 			(start -1.225 -0.75)
 			(end 1.225 0.75)
@@ -1923,7 +1923,7 @@
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(fp_rect
 			(start -1.225 -0.75)
 			(end 1.225 0.75)
@@ -3524,7 +3524,7 @@
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(fp_rect
 			(start -1.225 -0.75)
 			(end 1.225 0.75)
@@ -4158,7 +4158,7 @@
 		(path "/2c704e2f-ee97-4f0c-a38e-eb43b0103c8f")
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -1.778054 -1.778029)
 			(end -1.778054 -1.591974)
@@ -4407,7 +4407,7 @@
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(fp_rect
 			(start -1.225 -0.75)
 			(end 1.225 0.75)
@@ -4823,7 +4823,7 @@
 		(path "/0f780581-6b1b-4014-94a5-c7c77c03ff40")
 		(sheetname "/")
 		(sheetfile "TDK CH101 Ultrasonic Sensor IC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start 0.7 0.7)
 			(end 0.7 -0.7)
@@ -5331,7 +5331,7 @@
 		(uuid "b41af7b5-85b4-4b32-a7c1-b75b5cff210f")
 	)
 	(gr_text "DIR"
-		(at 90.228571 68.542857 0)
+		(at 90.228571 68.842857 0)
 		(layer "B.SilkS")
 		(uuid "3c73fd6c-d3eb-4eac-a27a-2a9a368db7d4")
 		(effects
@@ -5343,7 +5343,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 90.8 66 0)
+		(at 90.8 66.3 0)
 		(layer "B.SilkS")
 		(uuid "4e4bf72c-27f7-4b53-b7e1-bcfc276d0646")
 		(effects
@@ -5355,7 +5355,7 @@
 		)
 	)
 	(gr_text "SCL"
-		(at 90.514286 76.171429 0)
+		(at 90.514286 76.471429 0)
 		(layer "B.SilkS")
 		(uuid "8b0e4c78-0f11-4976-83c9-2102c8b53eed")
 		(effects
@@ -5367,7 +5367,7 @@
 		)
 	)
 	(gr_text "INT"
-		(at 90.038095 71.085714 0)
+		(at 90.038095 71.385714 0)
 		(layer "B.SilkS")
 		(uuid "9fd23208-a149-4cc1-9420-fc1e38b3b478")
 		(effects
@@ -5391,7 +5391,7 @@
 		)
 	)
 	(gr_text "VIN"
-		(at 90.133333 83.8 0)
+		(at 90.133333 84.1 0)
 		(layer "B.SilkS")
 		(uuid "d1b65413-c8be-41f9-a816-82bcb39ce6a0")
 		(effects
@@ -5403,7 +5403,7 @@
 		)
 	)
 	(gr_text "SDA"
-		(at 90.561905 78.714286 0)
+		(at 90.561905 79.014286 0)
 		(layer "B.SilkS")
 		(uuid "d64a6a31-5928-410c-8cfe-a3b09bcff532")
 		(effects
@@ -5415,7 +5415,7 @@
 		)
 	)
 	(gr_text "RST"
-		(at 90.466667 73.628571 0)
+		(at 90.466667 73.928571 0)
 		(layer "B.SilkS")
 		(uuid "e8d1beda-d5c4-427c-8c31-59a95bfdb41a")
 		(effects
@@ -5439,7 +5439,7 @@
 		)
 	)
 	(gr_text "PRG"
-		(at 90.752381 81.257143 0)
+		(at 90.752381 81.557143 0)
 		(layer "B.SilkS")
 		(uuid "ef4a6f46-85b7-46c5-b026-83f9a8a7fb42")
 		(effects
