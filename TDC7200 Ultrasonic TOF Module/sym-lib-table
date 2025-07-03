@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TDC7200 Ultrasonic TOF Module")(type "KiCad")(uri "${KIPRJMOD}/TDC7200 Ultrasonic TOF Module.kicad_sym")(options "")(descr ""))
+)

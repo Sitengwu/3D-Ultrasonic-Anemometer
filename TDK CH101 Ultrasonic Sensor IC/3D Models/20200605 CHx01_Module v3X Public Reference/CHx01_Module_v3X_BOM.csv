@@ -1,0 +1,17 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB
+1,Chirp Microsystems CHx01,U,U1,x01,LGA8,1
+2,CAP CER 0.1UF 10V X5R 0201,C,C1,0.1 uF,201,1
+3,CONN FFC FPC 8POS 0.50MM R/A,FFC_ZIF_CONN,J1,FFC_ZIF_CONN,Molex_FFC_5034800800,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Component Groups:,3,,,,,
+Component Count:,3,,,,,
+Fitted Components:,3,,,,,
+Number of PCBs:,1,,,,,
+Total components:,3,,,,,
+Schematic Version:,,,,,,
+Schematic Date:,,,,,,
+BoM Date:,6/5/2020 15:00,,,,,
